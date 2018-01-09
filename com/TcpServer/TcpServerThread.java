@@ -1,7 +1,7 @@
 package com.TcpServer;
 import java.io.*;
 import java.net.*;
-
+//Ïß³Ì
 public class TcpServerThread extends Thread{
 	 
 	    private Socket socket;  
